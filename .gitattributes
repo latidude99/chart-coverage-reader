@@ -1,3 +1,7 @@
+ 
+# to change language of repo to Python
+    *.MD linguist-language=Python
+
 # Handle line endings automatically for files detected as text
 # and leave all files detected as binary untouched.
 * text=auto
