@@ -1,18 +1,15 @@
-# chart-coverage-reader
-An improved web version of the desktop app. Shows Admiralty charts coverage on Google Maps.
-
-
 # Admiralty Charts Catalogue
 
 [![](https://img.shields.io/badge/%20$%20-buy%20me%20a%20coffe-yellow.svg)](https://www.buymeacoffee.com/zWn1I6bVf)
 
-<!--Live at: [http://pc.latidude99.com/snc/](http://pc.latidude99.com/snd/)-->
+Live at: [http://pc.latidude99.com/owid/](http://pc.latidude99.com/snc/)  
+The code lives here: [https://github.com/latidude99/latidude99/tree/master/snc](https://github.com/latidude99/latidude99/tree/master/snc)
   
 ## General Info
 
 My fourth Python project.  
-A service displaying coverage of the UKHO Standard Navigational Charts on Google Maps.
-
+Shows Admiralty charts coverage on Google Maps along with detailed information on selected charts.    
+An improved web version of the desktop app I wrote in JavaFX two years back.
 
 ## Technologies
 - Python 3.8
