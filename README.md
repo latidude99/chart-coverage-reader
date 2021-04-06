@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/%20$%20-buy%20me%20a%20coffe-yellow.svg)](https://www.buymeacoffee.com/zWn1I6bVf)
 
-Live at: [http://pc.latidude99.com/owid/](http://pc.latidude99.com/snc/)  
+Live at: [http://pc.latidude99.com/snc/](http://pc.latidude99.com/snc/)  
 The code lives here: [https://github.com/latidude99/latidude99/tree/master/snc](https://github.com/latidude99/latidude99/tree/master/snc)
   
 ## General Info
@@ -50,24 +50,24 @@ There are two main modes you can use:
 ## Screenshots
 
 
-<img src="../images/snc_1.png" width=100%></p>
-<img src="../images/snc_2.png" width=100%></p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_1.png" width=100%></p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_2.png" width=100%></p>
   <br>
 <p align="center">
-  <img src="../images/snc_3.png" width=100%></p>
+  <img src=https://github.com/latidude99/latidude99/blob/master/images/snc_3.png" width=100%></p>
   <br>
 <p align="center">
-<img src="../images/snc_4.png" width=100%> </p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_4.png" width=100%> </p>
 <p align="center">
-<img src="../images/snc_5.png" width=100%> </p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_5.png" width=100%> </p>
 <p align="center">
-<img src="../images/snc_6.png" width=100%> </p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_6.png" width=100%> </p>
 <p align="center">
-<img src="../images/snc_7.png" width=100%> </p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_7.png" width=100%> </p>
 <p align="center">
-<img src="../images/snc_8.png" width=100%> </p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_8.png" width=100%> </p>
 <p align="center">
-<img src="../images/snc_9.png" width=100%> </p>
+<img src="https://github.com/latidude99/latidude99/blob/master/images/snc_9.png" width=100%> </p>
 	
  
 
