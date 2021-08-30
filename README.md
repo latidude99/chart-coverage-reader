@@ -52,10 +52,8 @@ There are two main modes you can use:
 
 <img src="https://github.com/latidude99/latidude99/blob/master/images/snc_1.png" width=100%></p>
 <img src="https://github.com/latidude99/latidude99/blob/master/images/snc_2.png" width=100%></p>
-  <br>
 <p align="center">
-  <img src=https://github.com/latidude99/latidude99/blob/master/images/snc_3.png" width=100%></p>
-  <br>
+  <img src="https://github.com/latidude99/latidude99/blob/master/images/snc_3.png" width=100%></p>
 <p align="center">
 <img src="https://github.com/latidude99/latidude99/blob/master/images/snc_4.png" width=100%> </p>
 <p align="center">
